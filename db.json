@@ -1,46 +1,24 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
+      "id": "1",
+      "name": "Aloe Vera",
+      "image": "https://via.placeholder.com/400?text=Aloe+Vera",
+      "price": 10,
+      "inStock": true
     },
     {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "id": "2",
+      "name": "Snake Plant",
+      "image": "https://via.placeholder.com/400?text=Snake+Plant",
+      "price": 15,
+      "inStock": true
     },
     {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
-    },
-    {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
-    },
-    {
-      "id": 5,
-      "name": "Jade",
-      "image": "./images/jade.jpg",
-      "price": 10.37
-    },
-    {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
-    },
-    {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "id": "2b51",
+      "name": "Rose flower",
+      "image": "home/downloads/images.jpg",
+      "price": 300
     }
   ]
 }
